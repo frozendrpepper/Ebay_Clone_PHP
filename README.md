@@ -5,7 +5,8 @@
 This is a simple Ebay Clone project utilizing Ebay's search API. Once opening the AWS link below, you will see a search template where one can specify the name of the product, category to search for, condition of the product and geolocation to search for. Upon pressing the search button, a table showing all the results will be displayed. Each product can be clicked for further details.
 
 ## AWS Link to the web page
-http://ebayphp-env.eba-9pszmqwp.us-west-1.elasticbeanstalk.com/
+Due to recurring billing, I've taken down the link to the app. Here's a demo video to illustrate what the app looks like
+(https://www.youtube.com/watch?v=dfIZgmp6KtU)
 
 ## Technology Used
 * HTML
